@@ -1,0 +1,290 @@
+
+/* --------------------
+  MY "sexy" BODY
+-------------------- */
+
+body {
+    background-color: #008080;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 0;
+    border: 20px solid #c0b89b;
+}
+
+/* --------------------
+  sixties and friends
+-------------------- */
+
+.sixties {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 95px;
+    line-height: 1;
+    letter-spacing: 10px;
+    margin: 0;
+    color: #fff;
+}
+
+.kong {
+   display: flex;
+   justify-content: space-between;
+   font-family: sans-serif;
+   align-items: center;   
+   width: 100%;
+   margin: 0;
+   color: #fff;
+}
+
+.mon {
+   color: #fff;
+   color: inherit;
+   text-align: right;
+   font-family: sans-serif;
+}
+
+.sixpic {
+   border: 5px solid #C0C0C0;
+   display: block;
+   margin: auto;
+   margin-bottom: 40px;
+   margin-top: 20px;
+}
+
+/* --------------------
+  box teleport
+-------------------- */
+
+.titletp {
+    background-color:#1c1cb8;
+    border: 3px solid #C0C0C0;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    margin: 15px;
+}
+
+.boxtp {
+    background-color: #fff;
+    border: 3px solid #C0C0C0;
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+    
+    word-spacing: 10px;
+    
+}
+
+/* --------------------
+  about sixties
+-------------------- */
+
+
+.titleam {
+    background-color:#1c1cb8;
+    border: 3px solid #C0C0C0;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    margin: 0px;
+    justify-content: space-between;
+}
+
+
+.boxam {
+    background-color: #fff;
+    border: 3px solid #C0C0C0;
+    color: #1c1cb8;
+    text-align: left;
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    margin-bottom: 50px;
+}
+
+.boxam b{
+    color: #ff810b;
+}
+    
+
+.spotifylink {
+    text-align: center;
+    color :#00804b
+}
+
+.sixvid {
+   border: 5px solid #C0C0C0;
+   display: block;
+   margin: auto;
+   margin-bottom: 40px;
+   margin-top: 20px;
+}
+
+/* --------------------
+  What I BUILT
+-------------------- */
+
+.titlewib {
+    background-color:#1c1cb8;
+    border: 3px solid #C0C0C0;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.boxwib {
+    background-color: #fff;
+    border: 3px solid #C0C0C0;
+    color: #1c1cb8;
+    text-align: left;
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    margin-bottom: 30px;
+}
+
+
+/* --------------------
+  HOW I BUILT
+-------------------- */
+
+.titlehow {
+    background-color:#1c1cb8;
+    border: 3px solid #C0C0C0;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.boxhow {
+    background-color: #fff;
+    border: 3px solid #C0C0C0;
+    color: #1c1cb8;
+    text-align: left;
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    margin-bottom: 30px;
+}
+
+
+/* --------------------
+  Reflection Top
+-------------------- */
+
+.titleref {
+    background-color:#1c1cb8;
+    border: 5px solid #C0C0C0;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+    margin: 0px;
+    padding-left: 10px;
+}
+
+.boxref {
+    background-color: #fff;
+    border: 3px solid #C0C0C0;
+    color: #1c1cb8;
+    text-align: left;
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    margin-bottom: 30px;
+}
+
+.fileeditbar {
+    background-color: #C0C0C0 ;
+    padding: 2px;
+    padding-left: 15px;
+}
+
+/* --------------------
+  Reflection Inside
+-------------------- */
+
+/* -- problem -- */
+.pro h2{
+    text-align: left;
+    text-decoration: underline;
+}
+
+/* -- understand -- */
+.und h2{
+    text-align: right;
+    text-decoration: underline;
+}
+
+.und p{
+    margin-bottom: 50px;
+}
+
+/* -- improve -- */
+.imp {
+    font-family: sans-serif;
+    border-style: dotted;
+    padding: 13px;
+    margin: 10px;
+    margin-bottom: 40px;
+}
+
+.imp h2 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.imp p {
+    text-align: center;
+}
+
+
+/* --------------------
+  footer
+-------------------- */
+
+footer {
+    font-family: sans-serif;
+    color: #ebedef;
+    text-align: center;
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+/* --------------------
+
+"TITLE&BOX" for copy and paste!
+
+.title {
+    background-color:#1c1cb8;
+    border: 5px solid #C0C0C0;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+    margin: 0px;
+}
+
+------------------------
+
+
+.box {
+    background-color: #fff;
+    border: 3px solid #C0C0C0;
+    color: #1c1cb8;
+    text-align: left;
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    margin-bottom: 30px;
+}
+-------------------- */
