@@ -9,6 +9,7 @@ body {
     padding: 20px;
     margin: 0;
     border: 20px solid #c0b89b;
+    
 }
 
 .bg-teal-600 {
@@ -44,9 +45,10 @@ body {
    color: inherit;
    text-align: right;
    font-family: sans-serif;
+   text-decoration: none;
 }
 
-.sixpic {
+.picborder {
    border: 5px solid #C0C0C0;
    display: block;
    margin: auto;
