@@ -105,11 +105,14 @@ body {
 .boxam b{
     color: #ff810b;
 }
-    
 
-.spotifylink {
+.followhere {
     text-align: center;
-    color :#00804b
+}
+
+.githublink {
+    text-align: center;
+    color :#03ab65
 }
 
 .sixvid {
@@ -216,7 +219,7 @@ body {
 
 /* -- understand -- */
 .und h2{
-    text-align: right;
+    text-align: center;
     text-decoration: underline;
 }
 
