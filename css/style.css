@@ -1,6 +1,6 @@
 
 /* --------------------
-  MY "sexy" BODY
+  MY BODY
 -------------------- */
 
 body {
@@ -9,6 +9,10 @@ body {
     padding: 20px;
     margin: 0;
     border: 20px solid #c0b89b;
+}
+
+.bg-teal-600 {
+    background-color: #0d9488; 
 }
 
 /* --------------------
@@ -61,6 +65,7 @@ body {
     text-align: center;
     font-weight: bold;
     margin: 15px;
+    
 }
 
 .boxtp {
@@ -69,7 +74,6 @@ body {
     text-align: center;
     padding: 20px;
     margin: 0px;
-    
     word-spacing: 10px;
     
 }
@@ -111,8 +115,18 @@ body {
 }
 
 .githublink {
-    text-align: center;
-    color :#03ab65
+    background-color: #1c1cb8;
+    border: 3px solid #C0C0C0;
+    border-radius: 0;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.githublink:hover {
+    background-color: #ff810b;
+    border-color: #C0C0C0;
+    color: #ffffff;
 }
 
 .sixvid {
@@ -123,56 +137,6 @@ body {
    margin-top: 20px;
 }
 
-/* --------------------
-  What I BUILT
--------------------- */
-
-.titlewib {
-    background-color:#1c1cb8;
-    border: 3px solid #C0C0C0;
-    color: #fff;
-    text-align: center;
-    font-weight: bold;
-    margin: 0px;
-}
-
-.boxwib {
-    background-color: #fff;
-    border: 3px solid #C0C0C0;
-    color: #1c1cb8;
-    text-align: left;
-    padding: 20px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    margin: 0px;
-    margin-bottom: 30px;
-}
-
-
-/* --------------------
-  HOW I BUILT
--------------------- */
-
-.titlehow {
-    background-color:#1c1cb8;
-    border: 3px solid #C0C0C0;
-    color: #fff;
-    text-align: center;
-    font-weight: bold;
-    margin: 0px;
-}
-
-.boxhow {
-    background-color: #fff;
-    border: 3px solid #C0C0C0;
-    color: #1c1cb8;
-    text-align: left;
-    padding: 20px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    margin: 0px;
-    margin-bottom: 30px;
-}
 
 
 /* --------------------
@@ -211,23 +175,23 @@ body {
   Reflection Inside
 -------------------- */
 
-/* -- problem -- */
-.pro h2{
+/* -- Project name and Evidance -- */
+.pjname h2{
     text-align: left;
     text-decoration: underline;
 }
 
 /* -- understand -- */
-.und h2{
+.evi h2{
     text-align: center;
     text-decoration: underline;
 }
 
-.und p{
+.evi p{
     margin-bottom: 50px;
 }
 
-/* -- improve -- */
+/* -- image -- */
 .imp {
     font-family: sans-serif;
     border-style: dotted;
